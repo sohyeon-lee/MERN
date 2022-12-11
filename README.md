@@ -1,2 +1,2 @@
 # MERN
-MERN 토이 프로젝트
+Toy Project with MERN
